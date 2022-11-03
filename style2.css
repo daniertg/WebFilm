@@ -108,10 +108,10 @@ header ul a :hover{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .list1 ul{
-    list-style-image: url('/square-rounded-16.png');
+    list-style-image: url('square-rounded-16.png');
 }
 .list2 ul{
-    list-style-image: url('/square-rounded-16.png');
+    list-style-image: url('square-rounded-16.png');
 
 }
 .list2{
