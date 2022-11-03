@@ -98,6 +98,9 @@ aside h4{
 @media screen and(min-width : 1024px) and (max-width :1645px) {
     
 }
+@media screen and(min-width : 320px) and (max-width :480px) {
+    
+}
 
 aside img{
     width: 60px;
